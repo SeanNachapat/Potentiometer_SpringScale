@@ -1,2 +1,2 @@
 # Potentiometer_SpringScale
-Arduino Student Kit 2024
+Arduino Education Day 2024 - Arduino Student Kit Competition
