@@ -18,7 +18,7 @@ The Potentiometer Spring Scale was created to solve the physics problem of measu
 Team KUSMP.
 
 ## Reference
-- [How does a Mechanical Scale work? (Spring Scale)]([https://www.youtube.com/watch?v=cxvsHNRXLjw&pp=ygUUbWl0IG1vbmtleSBhbmQgYSBndW4%3D](https://youtu.be/LdZLLR8AfkM?si=T1gZVw7XhWY6rUck))
+- [How does a Mechanical Scale work? (Spring Scale)](https://youtu.be/LdZLLR8AfkM?si=Q7lKsP3ywcMQP9i7)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
